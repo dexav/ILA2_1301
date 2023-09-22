@@ -5,6 +5,7 @@ Gruppe: Xavier Nursiwat, Atrur Bytyqi, Leonardo Grigioni
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 15.09.2023      | 0.0.1   | Erstellung von Projektdokumentation und Idee für Projekt gesammelt. |
+|22.09.2023       | 0.0.2   | In Roblox Funktionen für die Tools gemacht.                                                             |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
