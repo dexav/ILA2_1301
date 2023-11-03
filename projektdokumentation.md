@@ -73,7 +73,7 @@ Wir machen ein Spiel auf Roblox. Ein Spiel, wo man als Hausmeister eine Schule p
 | 4.c  | 3.11.23      | XN          |Programmierung der Mechanik, die Schmutz auf den Tischen in der Schule erzeugt, sodass der Spieler die Tische reinigen kann.             |    30           |
 | 5.a  | 3.11.23      | AB          |Programmierung der festen Aussehen und Umgebung des Spiels gemäß den Spielerwünschen und Erzeugung von Schmutz an den entsprechenden Stellen in der Spielwelt.|      30       |
 | 5.b  | 3.11.23      | LG          |Implementierung einer festen Spielumgebung, die das Erscheinungsbild und die Elemente der Spielwelt definiert, um sicherzustellen, dass sie konsistent und vorhersehbar ist|        30       |
-| 5.c  | 3.11.23      | XN          Programmierung der Mechanik, die Schmutz auf verschiedenen Oberflächen wie Fenstern, Boden und Tischen in der Spielwelt generiert, um sicherzustellen, dass die Umgebung schmutzig ist und vom Spieler gereinigt werden kann.|          30     |
+| 5.c  | 3.11.23      | XN          |Programmierung der Mechanik, die Schmutz auf verschiedenen Oberflächen wie Fenstern, Boden und Tischen in der Spielwelt generiert, um sicherzustellen, dass die Umgebung schmutzig ist und vom Spieler gereinigt werden kann.|          30     |
 
 
 Total: 
