@@ -84,23 +84,28 @@ Total: 1185 min = 19 h 45 min
 
 ## 4 Realisieren
 
-| AP-№ | Datum      | Zuständig         | Geplante Zeit | Tatsächliche Zeit |
-| ----  | -----      | ---------                                                     | -------------  | ------------------ |
-| 1.A   | 29.09.2023 | Xavier Nursiwat                            | 180 min       | 120                  |
-| 2.A   | 22.09.2023 | Artur Bytyqi      | 90 min        | 90                  |
-| 3.A   | 29.09.2023 | Leonardo Grigioni | 15 min        |   15                |
-| 3.B   | 29.09.2023 | Leonardo Grigioni  | 30 min        |    30               |
-| 3.C   | 29.09.2023 | Leonardo Grigioni | 60 min        |     60              |
-| 4.A   | 22.09.2023 | Artur Bytyqi       | 120 min       |   120                |
-| 4.B   | 29.09.2023 | Xavier Nursiwat   | 90 min        |    100               |
-| 4.C   | 29.09.2023 | Xavier Nursiwat   | 30 min  |     20              |
-| 5.A   | 29.09.2023 | Artur             | 30 min        |  30                 |
-| 5.B   | 29.09.2023 | Xavier Nursiwat   | 150 min      |   160                |
-| 5.C   | 29.09.2023 | Leonardo Grigioni | 100 min      |   130                |
-| 6.A   | 29.09.2023 | Artur Bytyqi      |  120 min       | 120                  |
-| 6.B   | 29.09.2023 | Artur Bytyqi       | 45 min        |  45                 |
-| 6.C   | 29.09.2023 | Artur Bytyqi       | 30 min        | 30                  |
-| 6.D   | 29.09.2023 | Artur Bytyqi       | 15 min        | 20                  |
+| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ----- | --------- | ------------- | ----------------- |
+| 1.A  |29.09.2023       | Xavier Nursiwat          |180 min               | 150 min                  |
+| 2.A  |22.09.2023       | Artur Bytiqi          |90               |   95 min                |
+| 3.A  |29.09.2023      |Leonardo Grigioni          |  15 min             |  20 min                 |
+| 3.B  |29.09.2023      |Leonardo Grigioni          |  30 min             |  45                 |
+| 3.C  |29.09.2023      |Leonardo Grigioni           |  60             |    55               |
+| 4.A  |22.09.2023     |Artur Bytiqi           |    120           |      130             |
+| 4.B  |06.10.2023      |Xavier Nursiwat           |  90             |      100             |
+| 4.C  |29.09.2023       |Xavier Nursiwat           |    30           |        40           |
+| 5.A  | 29.09.2023      |Artur Bytiqi          |     30          |40
+| 5.B  | 06.10.2023    |  Xavier Nursiwat     |     150          |   130                |
+| 5.C  | 06.10.2023     |Leonardo Grigioni          |     100          |  100                 |
+| 6.A  | 13.10.2023      |Artur Bytiqi      |  120             |    115               |
+| 6.B  |  20.10.2023     |Artur Bytiqi      |  45             |    50               |
+| 6.C  | 20.10.2023       |Artur Bytiqi      |    30           |     45              |
+| 6.D  | 20.10.2023       |Artur Bytiqi      |      15         |       30            |
+
+
+
+
+
 
 
 
