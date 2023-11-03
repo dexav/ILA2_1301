@@ -34,8 +34,8 @@ Wir machen ein Spiel auf Robolox. Ein Spiel wo man als Hausmeeister eine Schule 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Spiel startet|Man startet das Spiel        | Das Spiel startet                  |
-|2  .1 | Man ist neben dem Schmutz             |Man läuft mit dem Besen über den Schmutz         |Der Schmutz verschwindet und man wird bezahlt                   |
-| 3 .1 |              |         |                   |
+| 2.1 | Man ist neben dem Schmutz             |Man läuft mit dem Besen über den Schmutz         |Der Schmutz verschwindet und man wird bezahlt                   |
+| 3 .1 | Man will den Schmutz beseitigen. | 1           | Man nimmt den Besen raus.                  |
 |  4.1 |              |         |                   |
 |5  .1 |              |         |                   |
 | 6 .1 |              |         |                   |
