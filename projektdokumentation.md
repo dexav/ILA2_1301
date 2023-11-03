@@ -48,8 +48,9 @@ Wir machen ein Spiel auf Roblox. Ein Spiel, wo man als Hausmeister eine Schule p
 
 
 ### 1.4 Diagramme
+![HausmeisterJoe](https://github.com/dexav/ILA2_1301/assets/110892637/b8f031e3-111b-4f0d-8b2d-f8c5880bfcdc)
 
-✍️Fügen Sie hier ein Use Case-Diagramm mit mindestens 3 Anwendungsfällen ein; und eine Skizze davon, wie Ihre Netzseite aussehen sollte.
+
 
 ## 2 Planen
 
