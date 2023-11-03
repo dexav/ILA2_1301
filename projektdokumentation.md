@@ -45,7 +45,7 @@ Wir machen ein Spiel auf Roblox. Ein Spiel, wo man als Hausmeister eine Schule p
 |5.3|Man will nicht nur den Boden dreckig haben|(Spiel startet)|Spiel generiert Schmutz auf den Tischen in der Schule|
 |6.1|Man will, dass die Welt einigermassen gut aussieht|(Spiel startet)|Das Spiel hat ein festes Aussehen|
 |6.2|Man will, dass die Welt einigermassen gut aussieht|(Spiel startet)|Das Spiel hat eine feste Umgebung|
-|6.3|Man will, dass es überall dreckig ist, nicht nur der Boden|(Spiel startet)|Das Spiel generiert Schmutz auf Fenster, Boden und Tischen|
+
 
 
 
