@@ -54,12 +54,40 @@ Wir machen ein Spiel auf Roblox. Ein Spiel, wo man als Hausmeister eine Schule p
 
 
 
+
+
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 3.11.23      | LG          | Programmierung des Spiels inklusive Grafiken, Spiellogik und Benutzeroberfläche.             |30               |
+| 1.b  | 3.11.23      | XN          | Implementierung der Logik, die das Spiel fortführt, wenn der Benutzer nicht putzen möchte.
+             |  30             |
+| 2.a  | 3.11.23      | AB          |Logik zur Erzeugung von Schulumgebungen und Räumen im Spiel.
+              |    30           |
+| 2.b  | 3.11.23      | LG          |Implementierung einer Mechanik, bei der der Schmutz beim Bewegen des Besens über ihn verschwindet und der Spieler belohnt wird.
+              |      30         |
+| 3.a  | 3.11.23      | XN          | Verwaltung des Spielerinventars und Sicherstellung, dass der Besen von Anfang an vorhanden ist.
+             |        30       |
+| 3.b  | 3.11.23      | AB          |Implementierung der Aktion, bei der der Spieler den Besen aus dem Inventar nimmt.
+              |          30     |
+| 3.c  | 3.11.23      | LG          | Implementierung der Aktion, bei der der Spieler den Besen zurück in das Inventar legt.
+             |            30   |
+| 3.d  | 3.11.23      | XN          |Programmierung der Mechanik, bei der der Schmutz entfernt wird, wenn der Spieler den Besen benutzt, und Fortschritt im Spiel gemacht wird.
+              |              30 |
+| 4.a  | 3.11.23      | AB          |Implementierung der Logik zur Erzeugung von Schmutz auf dem Boden, den Fenstern und den Tischen im Spiel.
+              |30               |
+| 4.b  | 3.11.23      | LG          |Implementierung der Logik zur Erzeugung von Schmutz auf den Fenstern in der Schule, um sicherzustellen, dass die Fenster schmutzig sind und vom Spieler gereinigt werden können.
+              |  30             |
+| 4.c  | 3.11.23      | XN          |Programmierung der Mechanik, die Schmutz auf den Tischen in der Schule erzeugt, sodass der Spieler die Tische reinigen kann.             |    30           |
+| 5.a  | 3.11.23      | AB          |Programmierung der festen Aussehen und Umgebung des Spiels gemäß den Spielerwünschen und Erzeugung von Schmutz an den entsprechenden Stellen in der Spielwelt.
+
+              |      30         |
+| 5.b  | 3.11.23      | LG          |Implementierung einer festen Spielumgebung, die das Erscheinungsbild und die Elemente der Spielwelt definiert, um sicherzustellen, dass sie konsistent und vorhersehbar ist.
+
+              |        30       |
+| 5.c  | 3.11.23      | XN          Programmierung der Mechanik, die Schmutz auf verschiedenen Oberflächen wie Fenstern, Boden und Tischen in der Spielwelt generiert, um sicherzustellen, dass die Umgebung schmutzig ist und vom Spieler gereinigt werden kann.|          30     |
+
 
 Total: 
 
