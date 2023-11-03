@@ -68,7 +68,7 @@ Wir machen ein Spiel auf Roblox. Ein Spiel, wo man als Hausmeister eine Schule p
 |4.C|29.09.2023|Xavier Nursiwat|Man startet das Spiel mit dem Besen bereits im Inventar|30 min|
 |5.A|29.09.2023|Artur|Schmutz-Modell gefunden|30 min|
 |5.B|29.09.2023|Xavier Nursiwat|Es gibt Schmutz in der Schule auf dem Boden|150 min|
-|5.C|29.09.2023|Leonardo Grigioni|Es gibt Schmutz auf den Tischen und Fenster|100 min|
+|5.C|29.09.2023|Leonardo Grigioni|Es gibt Schmutz auf den Tischen und Fenster|180 min|
 |6.A|29.09.2023|Artur Bytyqi|Es hat Bäume in der Umgebung|120 min|
 |6.B|29.09.2023|Artur Bytyqi|Es hat einen Fluss in der Umgebung|45 min|
 |6.C|29.09.2023|Artur Bytyqi|Es hat Steine in der Umgebung|30 min|
