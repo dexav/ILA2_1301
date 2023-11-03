@@ -39,11 +39,6 @@ Wir machen ein Spiel auf Roblox. Ein Spiel, wo man als Hausmeister eine Schule p
 |5  .1 |              |         |                   |
 | 6 .1 |              |         |                   |
 |  7.1 |              |         |                   |
-|8  .1 |              |         |                   |
-| 9 .1 |              |         |                   |
-|  10.1 |              |         |                   |
-|  11.1 |              |         |                   |
-
 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
