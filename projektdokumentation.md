@@ -88,23 +88,23 @@ Total: 1185 min = 19 h 45 min
 
 ## 4 Realisieren
 
-| AP-№ | Datum      | Zuständig         | Aufgabe                                             | Geplante Zeit | Tatsächliche Zeit |
-| ----  | -----      | ---------         | -------                                             | -------------  | ------------------ |
-| 1.A   | 29.09.2023 | Xavier Nursiwat   | Man kann die Schule putzen                         | 180 min       | 120                  |
-| 2.A   | 22.09.2023 | Artur Bytyqi      | Es gibt eine Schule, die man betreten kann        | 90 min        | 90                  |
-| 3.A   | 29.09.2023 | Leonardo Grigioni | Ein NPC steht vor der Schule                      | 15 min        |   15                |
-| 3.B   | 29.09.2023 | Leonardo Grigioni | Man kann mit dem NPC interagieren                  | 30 min        |    30               |
-| 3.C   | 29.09.2023 | Leonardo Grigioni | Der NPC gibt einen Dialog aus (Quest)             | 60 min        |     60              |
-| 4.A   | 22.09.2023 | Artur Bytyqi      | Besen-Modell gemacht                                | 120 min       |   120                |
-| 4.B   | 29.09.2023 | Xavier Nursiwat   | Man kann den Besen benutzen                        | 90 min        |    100               |
-| 4.C   | 29.09.2023 | Xavier Nursiwat   | Man startet das Spiel mit dem Besen bereits im Inventar | 30 min  |     20              |
-| 5.A   | 29.09.2023 | Artur             | Schmutz-Modell gefunden                             | 30 min        |  30                 |
-| 5.B   | 29.09.2023 | Xavier Nursiwat   | Es gibt Schmutz in der Schule auf dem Boden         | 150 min      |   160                |
-| 5.C   | 29.09.2023 | Leonardo Grigioni | Es gibt Schmutz auf den Tischen und Fenstern        | 100 min      |   130                |
-| 6.A   | 29.09.2023 | Artur Bytyqi      | Es hat Bäume in der Umgebung                         | 120 min       | 120                  |
-| 6.B   | 29.09.2023 | Artur Bytyqi      | Es hat einen Fluss in der Umgebung                  | 45 min        |  45                 |
-| 6.C   | 29.09.2023 | Artur Bytyqi      | Es hat Steine in der Umgebung                        | 30 min        | 30                  |
-| 6.D   | 29.09.2023 | Artur Bytyqi      | Es hat eine schöne Aussicht als Hintergrund          | 15 min        | 20                  |
+| AP-№ | Datum      | Zuständig         | Geplante Zeit | Tatsächliche Zeit |
+| ----  | -----      | ---------                                                     | -------------  | ------------------ |
+| 1.A   | 29.09.2023 | Xavier Nursiwat                            | 180 min       | 120                  |
+| 2.A   | 22.09.2023 | Artur Bytyqi      | 90 min        | 90                  |
+| 3.A   | 29.09.2023 | Leonardo Grigioni | 15 min        |   15                |
+| 3.B   | 29.09.2023 | Leonardo Grigioni  | 30 min        |    30               |
+| 3.C   | 29.09.2023 | Leonardo Grigioni | 60 min        |     60              |
+| 4.A   | 22.09.2023 | Artur Bytyqi       | 120 min       |   120                |
+| 4.B   | 29.09.2023 | Xavier Nursiwat   | 90 min        |    100               |
+| 4.C   | 29.09.2023 | Xavier Nursiwat   | 30 min  |     20              |
+| 5.A   | 29.09.2023 | Artur             | 30 min        |  30                 |
+| 5.B   | 29.09.2023 | Xavier Nursiwat   | 150 min      |   160                |
+| 5.C   | 29.09.2023 | Leonardo Grigioni | 100 min      |   130                |
+| 6.A   | 29.09.2023 | Artur Bytyqi      |  120 min       | 120                  |
+| 6.B   | 29.09.2023 | Artur Bytyqi       | 45 min        |  45                 |
+| 6.C   | 29.09.2023 | Artur Bytyqi       | 30 min        | 30                  |
+| 6.D   | 29.09.2023 | Artur Bytyqi       | 15 min        | 20                  |
 
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
