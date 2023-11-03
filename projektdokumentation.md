@@ -54,31 +54,33 @@ Wir machen ein Spiel auf Roblox. Ein Spiel, wo man als Hausmeister eine Schule p
 
 
 
-
-
 ## 2 Planen
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 3.11.23      | LG          | Programmierung des Spiels inklusive Grafiken, Spiellogik und Benutzeroberfläche.             |30               |
-| 1.b  | 3.11.23      | XN          | Implementierung der Logik, die das Spiel fortführt, wenn der Benutzer nicht putzen möchte.|  30             |
-| 2.a  | 3.11.23      | AB          |Logik zur Erzeugung von Schulumgebungen und Räumen im Spiel.|    30           |
-| 2.b  | 3.11.23      | LG          |Implementierung einer Mechanik, bei der der Schmutz beim Bewegen des Besens über ihn verschwindet und der Spieler belohnt wird.|      30         |
-| 3.a  | 3.11.23      | XN          | Verwaltung des Spielerinventars und Sicherstellung, dass der Besen von Anfang an vorhanden ist.|        30       |
-| 3.b  | 3.11.23      | AB          |Implementierung der Aktion, bei der der Spieler den Besen aus dem Inventar nimmt.|          30     |
-| 3.c  | 3.11.23      | LG          | Implementierung der Aktion, bei der der Spieler den Besen zurück in das Inventar legt.|            30   |
-| 3.d  | 3.11.23      | XN          |Programmierung der Mechanik, bei der der Schmutz entfernt wird, wenn der Spieler den Besen benutzt, und Fortschritt im Spiel gemacht wird.|              30 |
-| 4.a  | 3.11.23      | AB          |Implementierung der Logik zur Erzeugung von Schmutz auf dem Boden, den Fenstern und den Tischen im Spiel.|30               |
-| 4.b  | 3.11.23      | LG          |Implementierung der Logik zur Erzeugung von Schmutz auf den Fenstern in der Schule, um sicherzustellen, dass die Fenster schmutzig sind und vom Spieler gereinigt werden können.|  30             |
-| 4.c  | 3.11.23      | XN          |Programmierung der Mechanik, die Schmutz auf den Tischen in der Schule erzeugt, sodass der Spieler die Tische reinigen kann.             |    30           |
-| 5.a  | 3.11.23      | AB          |Programmierung der festen Aussehen und Umgebung des Spiels gemäß den Spielerwünschen und Erzeugung von Schmutz an den entsprechenden Stellen in der Spielwelt.|      30       |
-| 5.b  | 3.11.23      | LG          |Implementierung einer festen Spielumgebung, die das Erscheinungsbild und die Elemente der Spielwelt definiert, um sicherzustellen, dass sie konsistent und vorhersehbar ist|        30       |
-| 5.c  | 3.11.23      | XN          |Programmierung der Mechanik, die Schmutz auf verschiedenen Oberflächen wie Fenstern, Boden und Tischen in der Spielwelt generiert, um sicherzustellen, dass die Umgebung schmutzig ist und vom Spieler gereinigt werden kann.|          30     |
+|1.A|29.09.2023|Xavier Nursiwat|Man kann die Schule putzen|180 min|
+|2.A|22.09.2023|Artur Bytyqi|Es gibt eine Schule, die man betreten kann|90 min|
+|3.A|29.09.2023|Leonardo Grigioni|Ein NPC steht vor der Schule|15 min|
+|3.B|29.09.2023|Leonardo Grigioni|Man kann mit dem NPC interagieren|30 min|
+|3.C|29.09.2023|Leonardo Grigioni|Der NPC gibt einen Dialog aus (Quest) |60 min|
+|4.A|22.09.2023|Artur Bytyqi|Besen-Modell gemacht|120 min|
+|4.B|29.09.2023|Xavier Nursiwat|Man kann den Besen benutzen|90 min|
+|4.C|29.09.2023|Xavier Nursiwat|Man startet das Spiel mit dem Besen bereits im Inventar|30 min|
+|5.A|29.09.2023|Artur|Schmutz-Modell gefunden|30 min|
+|5.B|29.09.2023|Xavier Nursiwat|Es gibt Schmutz in der Schule auf dem Boden|150 min|
+|5.C|29.09.2023|Leonardo Grigioni|Es gibt Schmutz auf den Tischen und Fenster|100 min|
+|6.A|29.09.2023|Artur Bytyqi|Es hat Bäume in der Umgebung|120 min|
+|6.B|29.09.2023|Artur Bytyqi|Es hat einen Fluss in der Umgebung|45 min|
+|6.C|29.09.2023|Artur Bytyqi|Es hat Steine in der Umgebung|30 min|
+|6.D|29.09.2023|Artur Bytyqi|Es hat eine schöne Aussicht als Hintergrund|15 min|
 
 
-Total: 390
 
+Total: 
 
+✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
+
+✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
 
 ## 3 Entscheiden
 
