@@ -17,8 +17,8 @@ Wir machen ein Spiel auf Robolox. Ein Spiel wo man als Hausmeeister eine Schule 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    | muss            | Funktional | Als User möchte ich, dass ich die Schule putzen kann, damit es sauber wird.  |
+| ---- | --------------- | ---- | ---------------------------------- |    
+| 1    | muss            | Funktional | Als User möchte ich, dass ich die   Schule putzen kann, damit es sauber wird.  |
 | 2 |  muss               | Funktional     | Als User möchte ich, dass es verschiedene Räume gitb wo man putzen kann, damit ich nicht an der selben Stelle putzen muss|
 | 3  |  muss            |  Funktional       |  Als User möchte ich, dass es verschieden Putzmaterialien gibt, damit ich nicht mit dem gleichen Besen putzen muss   |
 | 4  | muss             |Funktional         | Als User möchte ich, dass die verschiedenen Putzmaterialien unterschiedlich schnell putzen, damit ich schneller putzne kann    |
@@ -36,7 +36,7 @@ Wir machen ein Spiel auf Robolox. Ein Spiel wo man als Hausmeeister eine Schule 
 | 1.1  | Spiel startet|Man startet das Spiel        | Das Spiel startet                  |
 | 2.1 | Man ist neben dem Schmutz             |Man läuft mit dem Besen über den Schmutz         |Der Schmutz verschwindet und man wird bezahlt                   |
 | 3 .1 | Man will den Schmutz beseitigen. | 1           | Man nimmt den Besen raus.                  |
-|  4.1 |              |         |                   |
+|  4.1 | Man will ein anderes Putzmittel verwenden             |Man drückt E         |Der Das neue Putzmittel erscheint im Invertar                           |
 |5  .1 |              |         |                   |
 | 6 .1 |              |         |                   |
 |  7.1 |              |         |                   |
