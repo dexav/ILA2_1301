@@ -1,6 +1,6 @@
 # Projekt-Dokumentation
 
-Gruppe: Xavier Nursiwat, Atrur Bytyqi, Leonardo Grigioni
+Gruppe: Xavier Nursiwat, Artur Bytyqi, Leonardo Grigioni
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
