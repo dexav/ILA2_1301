@@ -76,7 +76,7 @@ Wir machen ein Spiel auf Roblox. Ein Spiel, wo man als Hausmeister eine Schule p
 
 
 
-Total: 
+Total: 1185 min = 19 h 45 min
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
 
