@@ -34,7 +34,7 @@ Wir machen ein Spiel auf Roblox. Ein Spiel, wo man als Hausmeister eine Schule p
 |1.1|Man möchte spielen.|(Spiel startet)|Das Spiel startet|
 |1.2|Benutzer möchte die Schule nicht putzen|(Spiel startet)|Spiel läuft weiter; Benutzer macht keinen Fortschritt|
 |2.1|Man will Räume haben, wo man putzen kann|(Spiel startet)|Das Spiel generiert die Schule und die Räume|
-|2.2|Man ist neben dem Schmutz|Man läuft mit dem Besen über den Schmutz|Der Schmutz verschwindet und man wird bezahlt|
+|2.2|Man ist neben dem Schmutz|Man läuft mit dem Besen über den Schmutz|Der Schmutz verschwindet |
 |3.1|Man möchte mit einer Quest beschäftigt sein.|(Spiel startet)|Der Schulleiter gibt dir eine Quest.|
 |4.1|Man will den Schmutz beseitigen |(Spiel startet)|Der Besen ist schon im Inventar.|
 |4.2|Man will den Schmutz beseitigen |1| Man nimmt den Besen raus.|
