@@ -81,6 +81,7 @@ Total: 1185 min = 19 h 45 min
 
 ## 3 Entscheiden
 
+Als allererstes mussten wir uns um eine Schule entscheiden. Wir haben uns für eine zweistöckige Schule entschieden, da eine einstöckige zu klein war und man viel zu schnell fertig war. Dann haben wir uns um einen Besen entschieden. Wir hatten die Wahl einen eigenen zu machen oder länger zu suchen, da alle langweilig aussahen. Wir entschieden uns einen eigenen zu machen, damit wir nicht Zeit verschwenden beim Suchen. Dann haben wir uns für ein Schmutz-Modell entscheiden müssen. Wir nahmen Kot als Modell. Wenn wir Flecken auf den Boden oder Gegenstände machen wollten, würde das mehrere Tagen brauchen, da es erstaunlicherweise viel Aufwand und Zeit braucht die Skripts und Modelle zu machen. Für die Umgebung entschieden wir uns für die Natur, da es viel weniger Zeit braucht, als ein Dorf oder eine Stadt zu machen.
 
 ## 4 Realisieren
 
