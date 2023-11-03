@@ -12,20 +12,19 @@ Gruppe: Xavier Nursiwat, Artur Bytyqi, Leonardo Grigioni
 
 ### 1.1 Ihr Projekt
 
-Wir machen ein Spiel auf Robolox. Ein Spiel wo man als Hausmeeister eine Schule putzt. 
+Wir machen ein Spiel auf Roblox. Ein Spiel, wo man als Hausmeister eine Schule putzt. 
 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |    
-| 1    | muss            | Funktional | Als User möchte ich, dass ich die   Schule putzen kann, damit es sauber wird.  |
-| 2 |  muss               | Funktional     | Als User möchte ich, dass es verschiedene Räume gitb wo man putzen kann, damit ich nicht an der selben Stelle putzen muss|
+| 1    | muss            | Funktional | Als User möchte ich, dass ich die Schule putzen kann, damit es sauber wird.  |
+| 2 |  muss               | Funktional     | Als User möchte ich, dass es verschiedene Räume gibt, wo man putzen kann, damit ich nicht an der selben Stelle putzen muss|
 | 3  |  muss            |  Funktional       |  Als User möchte ich, dass es verschieden Putzmaterialien gibt, damit ich nicht mit dem gleichen Besen putzen muss   |
 | 4  | muss             |Funktional         | Als User möchte ich, dass die verschiedenen Putzmaterialien unterschiedlich schnell putzen, damit ich schneller putzne kann    |
 | 5  |  muss            | Funktional        |Als User möchte ich, dass ich viel arbeiten muss damit ich die Putzmaterialien freischalten kann, damit ich ein Ziel habe etwas zu erreichen.                   |
 | 6 |  muss            | Funktional        | Als User möchte ich, dass nicht nur der Boden dreckig ist sondern auch die Tische und Fenster, damit ich nicht immer das Gleiche putzen muss              |
-| 7  |  muss            | Funktional        |  Als User möchte ich, dass es NPC gibt die den Boden verschmutzen, damit es eine Auseinandersetzung gibt.                 |
-| 8 |  kann      | Qualität|Als User möchte ich, dass die Schule einigermassen gut aussieht, damit es nicht langweilig aussieht. |
+| 7 |  kann      | Qualität|Als User möchte ich, dass die Umgebung einigermassen gut aussieht, damit es nicht langweilig aussieht. |
 
 
 
