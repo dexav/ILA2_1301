@@ -111,10 +111,23 @@ Total: 1185 min = 19 h 45 min
 
 ## 5 Kontrollieren
 
-| TC-№ | Datum | Resultat | Tester |
-| ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+
+TC-№	Datum	Resultat	Tester
+|1.1|	03.11.2023|	OK|	Leonardo Grigioni|
+|1.2|	03.11.2023|	OK|	Artur Bytyqi|
+|2.1|	03.11.2023|	OK|	Xavier Nursiwat|
+|2.2|	03.11.2023|	OK|	Leonardo Grigioni|
+|3.1|	03.11.2023|	OK|	Artur Bytyqi|
+|4.1|	03.11.2023|	OK|	Xavier Nursiwat|
+|4.2|	03.11.2023|	OK|	Leonardo Grigioni|
+|4.3|	03.11.2023|	OK|	Artur Bytyqi|
+|4.4|	03.11.2023|	OK|	Xavier Nursiwat|
+|5.1|	03.11.2023|	OK|	Leonardo Grigioni|
+|5.2|	03.11.2023|	OK|	Artur Bytyqi|
+|5.3|	03.11.2023|	OK|	Xavier Nursiwat|
+|6.1|	03.11.2023|	OK|	Leonardo Grigioni|
+|6.2|	03.11.2023|	OK|	Artur Bytyqi|
+|6.3|	03.11.2023|	OK|	Xavier Nursiwat|
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
