@@ -125,11 +125,12 @@ Als allererstes mussten wir uns um eine Schule entscheiden. Wir haben uns für e
 |4.3|	03.11.2023|	OK|	Artur Bytyqi|
 |4.4|	03.11.2023|	OK|	Xavier Nursiwat|
 |5.1|	03.11.2023|	OK|	Leonardo Grigioni|
-|5.2|	03.11.2023|	OK|	Artur Bytyqi|
+|5.2|	03.11.2023|	NOK|	Artur Bytyqi|
 |5.3|	03.11.2023|	OK|	Xavier Nursiwat|
 |6.1|	03.11.2023|	OK|	Leonardo Grigioni|
 |6.2|	03.11.2023|	OK|	Artur Bytyqi|
-|6.3|	03.11.2023|	OK|	Xavier Nursiwat|
+
+
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
