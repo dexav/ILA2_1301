@@ -130,10 +130,7 @@ Als allererstes mussten wir uns um eine Schule entscheiden. Wir haben uns für e
 |6.1|	03.11.2023|	OK|	Leonardo Grigioni|
 |6.2|	03.11.2023|	OK|	Artur Bytyqi|
 
+Fazit:
+Das Spiel funktioniert gut. Das einzige Problem war dass es keinen Schmutz auf den Fenstern generiert hat.
 
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
-
-## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
